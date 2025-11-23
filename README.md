@@ -80,18 +80,18 @@ Ensure your code is compatible with **TAP Talent RPA** and follows the existing 
 
 ---
 
-## License
-
-This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE.MD) file for details.  
-
----
-
 ## Future Improvements
 
 - Advanced sorting rules (by date, size, or custom tags).  
 - Cloud storage integration (OneDrive, Google Drive, etc.).  
 - File preview before moving.  
 - Multi-threaded processing for faster execution on large file sets.
+
+---
+
+## License
+
+This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE.MD) file for details.  
 
 ---
 
